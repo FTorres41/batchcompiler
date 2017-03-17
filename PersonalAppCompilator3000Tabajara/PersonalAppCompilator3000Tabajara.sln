@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalAppCompilator3000Tabajara", "PersonalAppCompilator3000Tabajara\PersonalAppCompilator3000Tabajara.csproj", "{1F6F97E3-A8D9-4733-B5FF-8D8C604E6031}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupPAC3K", "SetupPAC3K\SetupPAC3K.vdproj", "{B18AF36B-CAA9-4787-B335-2B320E12465F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6F97E3-A8D9-4733-B5FF-8D8C604E6031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6F97E3-A8D9-4733-B5FF-8D8C604E6031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6F97E3-A8D9-4733-B5FF-8D8C604E6031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6F97E3-A8D9-4733-B5FF-8D8C604E6031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18AF36B-CAA9-4787-B335-2B320E12465F}.Debug|Any CPU.ActiveCfg = Debug
+		{B18AF36B-CAA9-4787-B335-2B320E12465F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

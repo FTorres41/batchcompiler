@@ -1,0 +1,3 @@
+C:\Users\web07\Desktop\PersonalAppCompilator3000Tabajara\PersonalAppCompilator3000Tabajara\bin\Release\PersonalAppCompilator3000Tabajara.exe.config
+C:\Users\web07\Desktop\PersonalAppCompilator3000Tabajara\PersonalAppCompilator3000Tabajara\obj\Release\PersonalAppCompilator3000Tabajara.exe
+C:\Users\web07\Desktop\PersonalAppCompilator3000Tabajara\PersonalAppCompilator3000Tabajara\obj\Release\PersonalAppCompilator3000Tabajara.pdb
